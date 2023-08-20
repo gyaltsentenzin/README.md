@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Python<br>🎯 Goals: Full stack Engineer<br>🎲 Fun fact: I can write with both of my hands.</p>
+<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Python<br>🎯 Goals: Full stack Engineer with expertise in ML <br>🎲 Fun fact: I can write with both of my hands.</p>
 
 ###
 
