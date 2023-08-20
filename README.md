@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Tenzin and I'm an aspring Software Engineer with demonstrated experience in both startup and enterprise ecosystem. I most recently interned at Uber Technologies Inc. as a Backend Software Engineer.</p>
+<p align="left">Hi 👋! My name is Tenzin and I'm an aspiring Software Engineer with demonstrated experience in both startup and enterprise ecosystems. I most recently interned at Uber Technologies Inc. as a Backend Software Engineer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Python<br>🎯 Goals: Full stack Engineer with expertise in ML <br>🎲 Fun fact: I can write with both of my hands.</p>
+<p align="left">✨ Coding since 2019 <br>📚 I'm currently learning Python<br>🎯 Goals: Full stack Engineer with expertise in ML <br>🎲 Fun fact: I can write with both of my hands.</p>
 
 ###
 
